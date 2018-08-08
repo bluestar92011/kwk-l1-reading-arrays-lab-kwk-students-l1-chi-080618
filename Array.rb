@@ -11,3 +11,4 @@ favorite_snacks.each do |x|
 end 
 puts favorite_snacks
 puts favorite_snacks.first
+puts favorite_snacks.last
