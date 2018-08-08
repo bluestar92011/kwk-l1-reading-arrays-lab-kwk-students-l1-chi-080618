@@ -6,4 +6,5 @@ favorite_snacks = [
 "Cupcakes"
 ]
 def favorite_snacks_by_index
+  favorite snacks
   
