@@ -10,3 +10,4 @@ favorite_snacks.each do |x|
   "#{x} is one of my favorite snacks."
 end 
 puts favorite_snacks
+puts favorite_snacks.first
