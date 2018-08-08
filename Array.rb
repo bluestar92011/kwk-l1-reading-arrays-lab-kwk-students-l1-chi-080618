@@ -3,3 +3,4 @@ favorite_snacks = [
 "Popcorn",
 "Mangos",
 "Strawberries",
+"Cupcakes"
