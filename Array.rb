@@ -7,6 +7,6 @@ favorite_snacks = [
 ]
 
 favorite_snacks.each do |x|
-  "#{snacks} is one of my favorite snacks."
+  "#{x} is one of my favorite snacks."
 end 
 puts favorite_snacks
