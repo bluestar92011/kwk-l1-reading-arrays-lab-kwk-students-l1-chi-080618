@@ -5,4 +5,5 @@ favorite_snacks = [
 "Strawberries",
 "Cupcakes"
 ]
-def favorite_snacks
+def favorite_snacks_by_index
+  
