@@ -5,6 +5,8 @@ favorite_snacks = [
 "Strawberries",
 "Cupcakes"
 ]
-def favorite_snacks_by_index
-  favorite snacks
-  
+
+favorite_snacks.each do |x|
+  puts "#{snacks} is one of my favorite snacks."
+end 
+  favorite_snacks
