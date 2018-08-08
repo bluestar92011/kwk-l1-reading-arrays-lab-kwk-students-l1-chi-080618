@@ -5,3 +5,4 @@ favorite_snacks = [
 "Strawberries",
 "Cupcakes"
 ]
+favorite_snacks
